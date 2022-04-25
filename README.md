@@ -1,6 +1,6 @@
 # nubank
 
-A new Flutter project.
+Clone da interface antiga da Nubank.
 
 ## Getting Started
 
